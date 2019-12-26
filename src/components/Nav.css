@@ -1,0 +1,49 @@
+
+
+.nav-bar{
+    width: 100%;
+}
+
+.logo-box{
+    border: solid 1px;
+    padding: 10px 5px;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+.logo{
+    font-size: 2em;
+    font-family: 'Share', cursive;
+    font-weight: 400;
+    margin: 0;
+    /* text-decoration: underline; */
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-links{
+    width: 50%;
+    margin-right: 3%;
+}
+
+.nav-links a{
+    text-decoration: none;
+    color: black;
+    margin-top: 5%;
+}
+
+.nav-links a p{
+    margin: auto;
+}
+
+.logo-small{
+    font-size: 2em;
+    font-family: 'Share', cursive;
+    font-weight: 600;
+    margin: 0;
+}
+
+
