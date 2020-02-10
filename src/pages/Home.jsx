@@ -15,7 +15,7 @@ export default class Home extends Component {
                         </div>
                         <div class="content-div flex-container">
                             <div class="leftside-container">
-                                <img src="/images/profiel-foto.JPG"/>
+                                <img src="/images/yaika-zeeman.JPG" alt="Yaika Zeeman"/>
                                 <div class="leftside-text-div">
                                     <h3>About me</h3>
                                     <h4>Born: 29-08-1997</h4>
