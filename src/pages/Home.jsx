@@ -72,10 +72,10 @@ export default class Home extends Component {
                                         <h4>Instagram for pet-owners</h4>
                                     </div>
                                 </a>
-                                <a>
+                                <a href="https://jumpgame.yaikazeeman.nl/">
                                     <div class="project-item">
-                                        <h3>Vollce connect</h3>
-                                        <h4>Mobile app for the Vollce V1</h4>
+                                        <h3>Jump Game</h3>
+                                        <h4>Simple javascript game</h4>
                                     </div>
                                 </a>
 
